@@ -271,7 +271,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/marselle.jpg) no-repeat center top;
+	background: url(../img/marselle_bg.jpg) no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -289,6 +289,12 @@ a:after {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+#concurs {
+    background: url(../img/concurs.jpg) no-repeat center top;
+    height: 274px;
+    width: 100%;
 }
 
 #headerwrap h1 {
